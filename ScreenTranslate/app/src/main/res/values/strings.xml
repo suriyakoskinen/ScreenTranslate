@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Screen Translate</string>
+    <string name="a11y_description">Reads text on your screen (Telegram, X/Twitter, any app) and shows an English translation of Russian and Chinese text directly on top of it. Translation runs fully on your device; nothing is sent to any server.</string>
+    <string name="instructions">Screen Translate\n\nTranslates Russian and Chinese text on your screen into English, in place, in any app.\n\nSetup:\n1. Download the language packs (once, ~30 MB each).\n2. Enable "Screen Translate" in Accessibility settings.\n\nUsing the floating 文A button:\n• Tap = translate the screen now (tap again to show the original)\n• Long-press = switch AUTO mode on/off (green = auto)\n• Drag = move the button</string>
+</resources>
